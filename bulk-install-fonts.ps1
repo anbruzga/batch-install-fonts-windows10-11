@@ -1,7 +1,7 @@
 # Script: Font Installation and Management
 # Purpose: Install and manage fonts on a Windows system
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: anbruzga
+# Date: 04/10/2024
 # Version: 2.1
 
 # Define paths and log file
