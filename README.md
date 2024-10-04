@@ -31,5 +31,5 @@ Y + Enter <br>
 (Or google custom restriction solution if needed)<br>
 
 There is also commented out unistall logic, but I did not need to use it, so use it at your own risk if needed.<br>
-This script edits registry, and that is considered risky, even though I have tested it and it worked well for me multime times, but use at your own risk.<br>
+This script edits registry, and that is considered risky, even though I have tested it and it worked well for me, but use at your own risk.<br>
 
